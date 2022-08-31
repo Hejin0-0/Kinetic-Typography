@@ -6,5 +6,5 @@ Creative Coding Tutorial (PIXI.js)
 🔸 Web Font Loader: https://github.com/typekit/webfontloader <br>
 
 🔸 by Interactive Developer
->https://blog.cmiscm.com/?page_id=3023 <br>
+>https://blog.cmiscm.com/ <br>
 >https://www.youtube.com/cmiscm
